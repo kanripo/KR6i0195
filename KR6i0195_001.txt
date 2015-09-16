@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:26.403360
+#+DATE: 2015-08-30 20:12:27.940064
 #+TITLE: 佛說腹中女聽經
 #+PROPERTY: CBETA_ID T14n0563
 #+PROPERTY: ID KR6i0195
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 563
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0195_T_000-0914b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0195_T_001-0914b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.563[Nos.562,564]¶
-
- 佛說腹中女聽經¶
+No. 563 [Nos. 562, 564]¶
+佛說腹中女聽經¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
